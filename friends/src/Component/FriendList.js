@@ -24,7 +24,7 @@ const Button = styled.button `
 width: 100px;
 height: 200px;
 border-radius: 2%;
-bacground-color:rgba(299, 0, 0, 0.5);
+background-color:rgba(299, 0, 0, 0.5);
 border: solid 2px grey;
 
 `;
